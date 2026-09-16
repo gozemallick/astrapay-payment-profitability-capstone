@@ -1,0 +1,1001 @@
+merchant_id,merchant_segment,category,country,pricing_plan,risk_tier
+M00001,SME,Electronics,Singapore,Standard,Low
+M00002,SME,Retail,India,Growth,Medium
+M00003,Enterprise,Digital Services,UAE,Standard,Medium
+M00004,Enterprise,Digital Services,UAE,Standard,Medium
+M00005,SME,Digital Services,UAE,Growth,Low
+M00006,SME,Education,India,Growth,Medium
+M00007,SME,Electronics,India,Standard,Low
+M00008,Strategic,Food,India,Promotional,Medium
+M00009,Enterprise,Food,Singapore,Enterprise,High
+M00010,SME,Healthcare,India,Growth,Medium
+M00011,SME,Professional Services,UAE,High Risk,Medium
+M00012,SME,Electronics,Singapore,Promotional,Low
+M00013,Enterprise,Professional Services,Singapore,Standard,Low
+M00014,SME,Travel,Singapore,Promotional,Low
+M00015,SME,Retail,Singapore,Growth,Medium
+M00016,Enterprise,Food,India,Enterprise,Low
+M00017,SME,Retail,India,Promotional,Low
+M00018,SME,Digital Services,India,Standard,Low
+M00019,SME,Travel,Singapore,Growth,Medium
+M00020,SME,Food,India,Standard,Low
+M00021,SME,Digital Services,UAE,Promotional,Low
+M00022,SME,Food,UAE,Standard,Low
+M00023,SME,Travel,India,Growth,Low
+M00024,SME,Electronics,Singapore,Standard,Low
+M00025,SME,Healthcare,India,Standard,Low
+M00026,SME,Digital Services,India,High Risk,Low
+M00027,SME,Digital Services,UAE,Standard,Low
+M00028,SME,Food,UAE,Standard,Medium
+M00029,SME,Education,Singapore,Standard,High
+M00030,Enterprise,Retail,UAE,Standard,Low
+M00031,SME,Electronics,Singapore,Promotional,Low
+M00032,SME,Education,Singapore,Promotional,Low
+M00033,SME,Digital Services,India,Standard,Low
+M00034,SME,Travel,India,Growth,Low
+M00035,Enterprise,Electronics,India,Standard,Medium
+M00036,SME,Retail,India,Growth,Medium
+M00037,SME,Digital Services,Singapore,Promotional,Medium
+M00038,SME,Electronics,India,Promotional,Low
+M00039,Enterprise,Digital Services,Singapore,Enterprise,Low
+M00040,SME,Digital Services,India,Standard,Medium
+M00041,SME,Food,India,Promotional,Low
+M00042,Strategic,Digital Services,India,Enterprise,Low
+M00043,SME,Retail,India,Growth,Low
+M00044,Enterprise,Travel,UAE,Standard,Medium
+M00045,SME,Healthcare,Singapore,Growth,Medium
+M00046,SME,Professional Services,India,Growth,Low
+M00047,SME,Food,Singapore,Standard,Medium
+M00048,SME,Healthcare,Singapore,Growth,Medium
+M00049,SME,Digital Services,Singapore,Standard,Low
+M00050,SME,Professional Services,UAE,Promotional,Low
+M00051,Enterprise,Electronics,Singapore,Standard,High
+M00052,SME,Digital Services,UAE,Growth,Low
+M00053,Enterprise,Retail,UAE,Enterprise,Low
+M00054,SME,Education,India,Standard,Medium
+M00055,SME,Travel,India,Standard,Low
+M00056,SME,Electronics,India,Standard,Medium
+M00057,SME,Food,Singapore,Standard,Low
+M00058,SME,Food,UAE,Promotional,Medium
+M00059,Enterprise,Professional Services,Singapore,Growth,Medium
+M00060,SME,Electronics,India,Standard,Low
+M00061,SME,Healthcare,Singapore,Standard,Low
+M00062,Enterprise,Retail,Singapore,Growth,Low
+M00063,SME,Retail,India,Growth,Low
+M00064,SME,Retail,India,Growth,Medium
+M00065,SME,Healthcare,Singapore,High Risk,Medium
+M00066,Strategic,Food,Singapore,Enterprise,Medium
+M00067,Enterprise,Retail,Singapore,Standard,High
+M00068,Enterprise,Healthcare,India,Standard,High
+M00069,SME,Retail,India,Standard,Medium
+M00070,SME,Digital Services,Singapore,Growth,High
+M00071,SME,Healthcare,UAE,Standard,Low
+M00072,SME,Digital Services,UAE,Growth,Medium
+M00073,SME,Professional Services,India,Standard,Medium
+M00074,SME,Food,UAE,Growth,Low
+M00075,SME,Education,India,Growth,High
+M00076,Enterprise,Travel,UAE,Enterprise,Low
+M00077,SME,Food,India,Standard,Low
+M00078,Enterprise,Electronics,Singapore,Standard,Low
+M00079,SME,Professional Services,India,Growth,Low
+M00080,SME,Professional Services,UAE,Promotional,Low
+M00081,Enterprise,Food,Singapore,Standard,Medium
+M00082,SME,Digital Services,India,Standard,Medium
+M00083,Strategic,Digital Services,India,Enterprise,Medium
+M00084,SME,Food,India,Promotional,Medium
+M00085,Strategic,Retail,India,Enterprise,Low
+M00086,SME,Retail,India,Promotional,Low
+M00087,SME,Food,Singapore,Growth,Medium
+M00088,Strategic,Retail,UAE,Enterprise,Medium
+M00089,SME,Electronics,UAE,Promotional,Medium
+M00090,SME,Healthcare,India,Standard,Low
+M00091,SME,Digital Services,India,Growth,Low
+M00092,Enterprise,Retail,India,Enterprise,High
+M00093,SME,Digital Services,India,Standard,Medium
+M00094,SME,Digital Services,UAE,Standard,Low
+M00095,Enterprise,Food,India,Standard,Low
+M00096,Enterprise,Digital Services,Singapore,Standard,Low
+M00097,SME,Electronics,India,Standard,Low
+M00098,Enterprise,Healthcare,Singapore,Standard,Low
+M00099,SME,Food,UAE,Standard,Medium
+M00100,SME,Travel,India,Standard,High
+M00101,SME,Food,UAE,High Risk,Medium
+M00102,SME,Professional Services,India,Standard,Medium
+M00103,Enterprise,Electronics,India,Enterprise,Medium
+M00104,SME,Retail,UAE,Standard,Low
+M00105,SME,Healthcare,Singapore,Standard,Low
+M00106,SME,Retail,India,Growth,Low
+M00107,SME,Digital Services,India,Standard,Medium
+M00108,SME,Electronics,India,Growth,High
+M00109,Enterprise,Digital Services,Singapore,Enterprise,Low
+M00110,SME,Food,UAE,Growth,Low
+M00111,Enterprise,Education,India,Growth,Low
+M00112,SME,Education,Singapore,Standard,Medium
+M00113,SME,Electronics,India,Growth,Low
+M00114,SME,Electronics,Singapore,Growth,High
+M00115,SME,Electronics,India,Standard,Low
+M00116,SME,Travel,India,Promotional,High
+M00117,SME,Electronics,India,Growth,Low
+M00118,Strategic,Retail,India,Enterprise,Low
+M00119,Enterprise,Travel,India,Enterprise,Low
+M00120,SME,Food,India,Standard,Medium
+M00121,SME,Food,India,Promotional,Low
+M00122,SME,Retail,India,Promotional,Medium
+M00123,SME,Retail,Singapore,Growth,Low
+M00124,Enterprise,Digital Services,India,Enterprise,Medium
+M00125,SME,Education,India,Growth,Low
+M00126,Enterprise,Retail,UAE,Standard,Low
+M00127,SME,Food,India,Growth,Low
+M00128,SME,Education,India,Standard,Low
+M00129,SME,Digital Services,Singapore,Standard,Low
+M00130,SME,Professional Services,India,Standard,Low
+M00131,SME,Education,Singapore,Standard,Medium
+M00132,Enterprise,Professional Services,India,Standard,Medium
+M00133,SME,Retail,India,Standard,Low
+M00134,SME,Retail,UAE,Promotional,High
+M00135,SME,Healthcare,India,Growth,High
+M00136,SME,Healthcare,India,Growth,High
+M00137,SME,Food,India,Growth,Medium
+M00138,SME,Travel,India,Standard,Low
+M00139,Strategic,Electronics,India,Enterprise,Low
+M00140,SME,Professional Services,India,High Risk,Low
+M00141,SME,Professional Services,Singapore,Growth,Medium
+M00142,SME,Digital Services,Singapore,Standard,Medium
+M00143,SME,Healthcare,India,Standard,Medium
+M00144,SME,Electronics,Singapore,Standard,Medium
+M00145,Strategic,Electronics,UAE,Enterprise,Low
+M00146,Enterprise,Professional Services,UAE,Enterprise,Medium
+M00147,SME,Electronics,India,Standard,Low
+M00148,SME,Digital Services,UAE,Growth,Low
+M00149,SME,Education,India,Promotional,Low
+M00150,SME,Digital Services,Singapore,Standard,Low
+M00151,SME,Electronics,Singapore,Growth,Medium
+M00152,Enterprise,Education,UAE,Enterprise,Low
+M00153,SME,Retail,India,Standard,Medium
+M00154,SME,Education,Singapore,Growth,Medium
+M00155,Enterprise,Professional Services,India,Standard,Low
+M00156,Strategic,Electronics,UAE,Enterprise,Low
+M00157,SME,Retail,UAE,Growth,Low
+M00158,SME,Retail,India,High Risk,Low
+M00159,Enterprise,Digital Services,India,Standard,Low
+M00160,SME,Digital Services,India,Standard,Low
+M00161,Strategic,Retail,India,Enterprise,Low
+M00162,SME,Professional Services,UAE,High Risk,Low
+M00163,SME,Digital Services,Singapore,Standard,Low
+M00164,SME,Digital Services,India,Growth,High
+M00165,SME,Electronics,Singapore,Standard,Medium
+M00166,Enterprise,Education,Singapore,Standard,Low
+M00167,Enterprise,Digital Services,India,Enterprise,Medium
+M00168,Enterprise,Digital Services,India,Standard,Low
+M00169,SME,Professional Services,Singapore,Standard,Low
+M00170,Enterprise,Retail,India,Standard,Low
+M00171,Enterprise,Healthcare,India,Enterprise,Medium
+M00172,Enterprise,Digital Services,India,Enterprise,Low
+M00173,SME,Electronics,UAE,Growth,Low
+M00174,SME,Electronics,India,High Risk,Medium
+M00175,SME,Retail,UAE,Promotional,High
+M00176,SME,Travel,Singapore,Standard,Low
+M00177,SME,Retail,India,Growth,Low
+M00178,Enterprise,Food,Singapore,Standard,High
+M00179,Enterprise,Electronics,India,Standard,Low
+M00180,SME,Retail,UAE,Promotional,Low
+M00181,SME,Food,UAE,High Risk,High
+M00182,SME,Electronics,India,Standard,Medium
+M00183,Enterprise,Professional Services,Singapore,Standard,Low
+M00184,SME,Digital Services,India,Standard,Medium
+M00185,SME,Electronics,India,Promotional,Medium
+M00186,SME,Education,India,Promotional,Low
+M00187,SME,Travel,Singapore,Growth,Low
+M00188,SME,Retail,India,Promotional,Low
+M00189,SME,Food,India,Growth,Medium
+M00190,SME,Food,UAE,Growth,Medium
+M00191,Enterprise,Education,Singapore,Growth,Low
+M00192,Strategic,Retail,UAE,Enterprise,Medium
+M00193,SME,Travel,India,High Risk,Medium
+M00194,Strategic,Travel,Singapore,Enterprise,Low
+M00195,SME,Professional Services,UAE,Growth,Medium
+M00196,SME,Professional Services,India,Standard,Medium
+M00197,SME,Retail,Singapore,Standard,Low
+M00198,Enterprise,Retail,India,Standard,High
+M00199,Enterprise,Electronics,Singapore,Enterprise,Low
+M00200,SME,Retail,Singapore,High Risk,Low
+M00201,SME,Professional Services,UAE,Standard,Medium
+M00202,Enterprise,Education,India,Enterprise,Medium
+M00203,SME,Food,UAE,Promotional,High
+M00204,Enterprise,Healthcare,India,Standard,Low
+M00205,SME,Travel,India,Growth,Low
+M00206,SME,Retail,India,Standard,Low
+M00207,SME,Electronics,Singapore,Promotional,Medium
+M00208,SME,Professional Services,India,Growth,Low
+M00209,SME,Digital Services,UAE,High Risk,Medium
+M00210,SME,Electronics,India,Growth,Low
+M00211,Enterprise,Professional Services,India,Standard,Low
+M00212,SME,Travel,UAE,Promotional,Low
+M00213,SME,Education,India,Growth,High
+M00214,Enterprise,Travel,Singapore,Standard,Low
+M00215,Enterprise,Retail,India,Standard,Low
+M00216,SME,Healthcare,India,Standard,Low
+M00217,SME,Retail,India,Standard,High
+M00218,SME,Retail,India,Standard,Medium
+M00219,SME,Education,Singapore,Promotional,High
+M00220,SME,Retail,Singapore,Growth,Low
+M00221,SME,Retail,UAE,Growth,Low
+M00222,SME,Retail,India,Promotional,Low
+M00223,Enterprise,Electronics,India,Standard,Medium
+M00224,Enterprise,Healthcare,Singapore,Enterprise,Low
+M00225,Enterprise,Electronics,India,Enterprise,Medium
+M00226,SME,Electronics,UAE,Standard,Low
+M00227,Strategic,Professional Services,India,Enterprise,Medium
+M00228,SME,Retail,UAE,Standard,Low
+M00229,SME,Electronics,India,Growth,Low
+M00230,Enterprise,Food,India,Enterprise,Medium
+M00231,SME,Retail,India,Standard,Low
+M00232,SME,Digital Services,India,High Risk,High
+M00233,Enterprise,Education,Singapore,Growth,Medium
+M00234,Enterprise,Retail,UAE,Standard,Low
+M00235,SME,Retail,India,Standard,Low
+M00236,Enterprise,Food,India,Standard,Low
+M00237,SME,Electronics,India,Growth,Low
+M00238,Enterprise,Education,India,Enterprise,Low
+M00239,SME,Healthcare,India,Growth,Low
+M00240,Strategic,Retail,Singapore,Enterprise,Medium
+M00241,Enterprise,Education,Singapore,Growth,Low
+M00242,SME,Retail,Singapore,Promotional,Low
+M00243,Enterprise,Electronics,Singapore,Enterprise,Low
+M00244,Enterprise,Professional Services,UAE,Enterprise,Medium
+M00245,SME,Education,India,Growth,Low
+M00246,Strategic,Professional Services,India,Promotional,Low
+M00247,Strategic,Healthcare,India,Enterprise,Low
+M00248,SME,Retail,India,Standard,Medium
+M00249,SME,Food,India,Standard,Low
+M00250,SME,Electronics,India,Standard,Medium
+M00251,SME,Food,India,High Risk,Low
+M00252,SME,Food,Singapore,High Risk,Medium
+M00253,SME,Food,Singapore,Standard,Medium
+M00254,Strategic,Education,India,Enterprise,Medium
+M00255,Enterprise,Retail,Singapore,Standard,Medium
+M00256,Enterprise,Digital Services,Singapore,Standard,Low
+M00257,Strategic,Healthcare,India,Enterprise,Low
+M00258,SME,Electronics,UAE,Growth,Medium
+M00259,Enterprise,Digital Services,India,Enterprise,Low
+M00260,SME,Education,Singapore,Standard,Low
+M00261,SME,Retail,UAE,Promotional,Medium
+M00262,SME,Electronics,Singapore,Growth,Low
+M00263,SME,Food,Singapore,Growth,Low
+M00264,SME,Digital Services,UAE,Promotional,Medium
+M00265,SME,Retail,India,Promotional,Medium
+M00266,Strategic,Retail,India,Enterprise,Medium
+M00267,SME,Retail,Singapore,Growth,Medium
+M00268,SME,Electronics,UAE,Promotional,Low
+M00269,Enterprise,Digital Services,Singapore,Standard,Medium
+M00270,SME,Digital Services,UAE,Growth,Medium
+M00271,Enterprise,Professional Services,India,Enterprise,Low
+M00272,SME,Retail,UAE,Standard,High
+M00273,SME,Retail,UAE,Standard,Low
+M00274,SME,Retail,India,Growth,Low
+M00275,SME,Food,UAE,Standard,Low
+M00276,SME,Electronics,India,High Risk,High
+M00277,SME,Electronics,UAE,Growth,Low
+M00278,Enterprise,Digital Services,UAE,Standard,Low
+M00279,SME,Digital Services,India,Growth,Medium
+M00280,SME,Electronics,Singapore,Growth,Low
+M00281,Strategic,Digital Services,Singapore,Promotional,Low
+M00282,SME,Travel,India,Promotional,Low
+M00283,SME,Digital Services,India,Standard,Low
+M00284,SME,Healthcare,India,Standard,Low
+M00285,SME,Digital Services,Singapore,High Risk,Medium
+M00286,Enterprise,Travel,India,Standard,Low
+M00287,Enterprise,Education,UAE,Standard,Medium
+M00288,SME,Food,India,Promotional,High
+M00289,Enterprise,Retail,Singapore,Standard,Medium
+M00290,SME,Food,India,Growth,Medium
+M00291,SME,Retail,Singapore,High Risk,High
+M00292,Enterprise,Food,UAE,Standard,High
+M00293,SME,Retail,India,Promotional,Medium
+M00294,Enterprise,Professional Services,India,Enterprise,Low
+M00295,SME,Travel,Singapore,High Risk,High
+M00296,SME,Food,India,Promotional,Medium
+M00297,Enterprise,Retail,India,Standard,Low
+M00298,Enterprise,Retail,India,Enterprise,High
+M00299,Enterprise,Digital Services,India,Standard,Low
+M00300,Enterprise,Retail,Singapore,Enterprise,Low
+M00301,SME,Digital Services,UAE,Growth,Low
+M00302,Strategic,Retail,Singapore,Enterprise,Low
+M00303,Enterprise,Food,India,Enterprise,Low
+M00304,SME,Healthcare,India,Growth,Medium
+M00305,Enterprise,Professional Services,UAE,Standard,Low
+M00306,Enterprise,Food,UAE,Standard,Low
+M00307,SME,Electronics,India,Growth,Medium
+M00308,SME,Electronics,UAE,Growth,Low
+M00309,SME,Travel,UAE,Promotional,High
+M00310,SME,Electronics,India,Growth,Medium
+M00311,SME,Digital Services,Singapore,High Risk,Medium
+M00312,Enterprise,Retail,Singapore,Enterprise,Low
+M00313,SME,Professional Services,India,Growth,High
+M00314,SME,Retail,India,Standard,Low
+M00315,SME,Food,India,Promotional,Low
+M00316,SME,Food,UAE,Promotional,Medium
+M00317,Enterprise,Digital Services,UAE,Standard,Medium
+M00318,SME,Digital Services,India,Standard,Low
+M00319,SME,Travel,Singapore,High Risk,Medium
+M00320,SME,Education,India,High Risk,Low
+M00321,Enterprise,Retail,India,Enterprise,Low
+M00322,Strategic,Retail,Singapore,Enterprise,Medium
+M00323,Enterprise,Electronics,Singapore,Growth,High
+M00324,SME,Healthcare,India,Growth,High
+M00325,Enterprise,Food,India,Standard,High
+M00326,SME,Retail,Singapore,Growth,Low
+M00327,SME,Food,Singapore,Growth,Low
+M00328,SME,Travel,India,Growth,Medium
+M00329,SME,Healthcare,Singapore,Growth,Medium
+M00330,SME,Retail,Singapore,Growth,Low
+M00331,SME,Food,Singapore,Promotional,Medium
+M00332,SME,Digital Services,UAE,Promotional,Medium
+M00333,Enterprise,Professional Services,India,Standard,High
+M00334,SME,Retail,UAE,Growth,Low
+M00335,Strategic,Retail,India,Promotional,Medium
+M00336,SME,Professional Services,Singapore,Growth,Low
+M00337,SME,Food,India,Growth,Low
+M00338,SME,Healthcare,India,Growth,Low
+M00339,SME,Healthcare,UAE,Standard,Low
+M00340,Strategic,Education,India,Enterprise,Low
+M00341,Enterprise,Travel,Singapore,Standard,Low
+M00342,SME,Travel,UAE,High Risk,High
+M00343,SME,Healthcare,India,Standard,Low
+M00344,SME,Electronics,UAE,Growth,Medium
+M00345,SME,Digital Services,Singapore,Growth,High
+M00346,Enterprise,Food,UAE,Standard,Low
+M00347,SME,Travel,Singapore,High Risk,Low
+M00348,SME,Food,Singapore,Growth,Medium
+M00349,SME,Professional Services,India,Promotional,Low
+M00350,SME,Electronics,Singapore,Growth,Low
+M00351,Enterprise,Education,India,Enterprise,Medium
+M00352,SME,Education,Singapore,Growth,Low
+M00353,SME,Healthcare,India,Growth,Medium
+M00354,Enterprise,Food,India,Standard,Medium
+M00355,SME,Digital Services,India,Standard,Medium
+M00356,SME,Food,UAE,Standard,Low
+M00357,SME,Travel,Singapore,Promotional,Low
+M00358,Strategic,Retail,Singapore,Enterprise,Medium
+M00359,Enterprise,Retail,UAE,Growth,Medium
+M00360,Strategic,Retail,Singapore,Enterprise,Medium
+M00361,Enterprise,Travel,India,Enterprise,Medium
+M00362,SME,Retail,Singapore,Growth,Medium
+M00363,SME,Travel,UAE,Growth,Medium
+M00364,Enterprise,Retail,India,Enterprise,Low
+M00365,SME,Education,Singapore,Standard,Medium
+M00366,SME,Food,Singapore,Standard,Low
+M00367,Strategic,Professional Services,India,Enterprise,Low
+M00368,SME,Education,UAE,Growth,Medium
+M00369,SME,Retail,India,Promotional,Medium
+M00370,Enterprise,Education,India,Enterprise,Low
+M00371,Enterprise,Electronics,UAE,Standard,High
+M00372,SME,Education,Singapore,High Risk,Low
+M00373,SME,Travel,India,Growth,Low
+M00374,SME,Professional Services,India,Promotional,High
+M00375,SME,Travel,UAE,Standard,Low
+M00376,SME,Professional Services,India,Standard,Medium
+M00377,Enterprise,Electronics,Singapore,Enterprise,Low
+M00378,SME,Digital Services,India,Growth,Medium
+M00379,Enterprise,Digital Services,UAE,Standard,Medium
+M00380,Enterprise,Travel,Singapore,Growth,Low
+M00381,SME,Healthcare,Singapore,Growth,Medium
+M00382,SME,Education,Singapore,Growth,High
+M00383,SME,Food,UAE,Promotional,Low
+M00384,Enterprise,Retail,UAE,Enterprise,Low
+M00385,Strategic,Travel,Singapore,Promotional,Medium
+M00386,SME,Food,UAE,Growth,Low
+M00387,Enterprise,Food,India,Enterprise,High
+M00388,SME,Education,India,Standard,Low
+M00389,Enterprise,Food,UAE,Growth,Low
+M00390,SME,Healthcare,Singapore,Growth,Medium
+M00391,Enterprise,Food,UAE,Enterprise,Low
+M00392,Enterprise,Food,India,Enterprise,Low
+M00393,Enterprise,Digital Services,Singapore,Enterprise,Low
+M00394,Enterprise,Electronics,Singapore,Enterprise,Medium
+M00395,SME,Food,Singapore,Standard,Low
+M00396,SME,Professional Services,India,Promotional,Low
+M00397,SME,Education,UAE,Promotional,Medium
+M00398,SME,Travel,India,High Risk,Medium
+M00399,SME,Digital Services,Singapore,Standard,Medium
+M00400,SME,Retail,Singapore,Promotional,Low
+M00401,Enterprise,Electronics,India,Enterprise,Low
+M00402,SME,Education,Singapore,Standard,Medium
+M00403,SME,Digital Services,UAE,Standard,Low
+M00404,Enterprise,Digital Services,India,Growth,Low
+M00405,SME,Retail,Singapore,High Risk,Low
+M00406,SME,Digital Services,India,Promotional,Low
+M00407,Enterprise,Electronics,UAE,Enterprise,Medium
+M00408,SME,Professional Services,India,Promotional,Low
+M00409,SME,Food,India,Growth,Low
+M00410,SME,Food,Singapore,Standard,Low
+M00411,SME,Electronics,India,Standard,Low
+M00412,SME,Travel,India,Growth,Low
+M00413,SME,Retail,UAE,Promotional,Medium
+M00414,SME,Retail,Singapore,Promotional,Low
+M00415,Enterprise,Professional Services,Singapore,Standard,Low
+M00416,SME,Travel,Singapore,Growth,Low
+M00417,SME,Healthcare,UAE,Growth,Low
+M00418,SME,Food,India,Promotional,Medium
+M00419,SME,Travel,India,Standard,Medium
+M00420,SME,Professional Services,India,Promotional,Medium
+M00421,SME,Food,Singapore,Standard,Low
+M00422,Strategic,Digital Services,India,Enterprise,Low
+M00423,SME,Travel,Singapore,Standard,Low
+M00424,SME,Education,India,Growth,Medium
+M00425,Strategic,Healthcare,Singapore,Enterprise,Low
+M00426,SME,Education,Singapore,High Risk,Medium
+M00427,Enterprise,Food,India,Standard,Low
+M00428,SME,Retail,India,High Risk,Low
+M00429,Enterprise,Electronics,UAE,Enterprise,Medium
+M00430,Enterprise,Healthcare,Singapore,Standard,Low
+M00431,SME,Healthcare,UAE,High Risk,Low
+M00432,SME,Retail,India,Standard,Low
+M00433,SME,Food,UAE,Standard,Medium
+M00434,Strategic,Retail,Singapore,Enterprise,Low
+M00435,SME,Education,India,Growth,Medium
+M00436,Strategic,Education,India,Enterprise,High
+M00437,Enterprise,Professional Services,Singapore,Growth,Low
+M00438,SME,Professional Services,India,Promotional,Low
+M00439,Enterprise,Digital Services,UAE,Standard,Medium
+M00440,SME,Food,Singapore,Standard,Low
+M00441,SME,Food,India,Standard,Low
+M00442,SME,Retail,UAE,Standard,Low
+M00443,SME,Electronics,India,Growth,Low
+M00444,SME,Digital Services,India,Growth,Medium
+M00445,SME,Digital Services,Singapore,Standard,Medium
+M00446,SME,Electronics,Singapore,High Risk,Low
+M00447,Enterprise,Professional Services,India,Standard,High
+M00448,Strategic,Education,India,Enterprise,Medium
+M00449,Enterprise,Food,India,Standard,Low
+M00450,Enterprise,Professional Services,Singapore,Enterprise,Low
+M00451,SME,Digital Services,Singapore,Promotional,Medium
+M00452,SME,Electronics,Singapore,Growth,Low
+M00453,SME,Travel,Singapore,High Risk,Low
+M00454,SME,Education,India,Standard,Low
+M00455,SME,Education,Singapore,Standard,Low
+M00456,SME,Education,India,Standard,Medium
+M00457,Strategic,Electronics,India,Enterprise,Low
+M00458,SME,Food,Singapore,Promotional,Low
+M00459,SME,Professional Services,India,Promotional,Low
+M00460,Enterprise,Education,India,Growth,Medium
+M00461,SME,Retail,India,Standard,Low
+M00462,SME,Retail,India,Promotional,Medium
+M00463,Strategic,Travel,India,Enterprise,Low
+M00464,SME,Digital Services,India,High Risk,Low
+M00465,Enterprise,Retail,India,Enterprise,Low
+M00466,Strategic,Education,India,Promotional,Medium
+M00467,SME,Electronics,India,Standard,Low
+M00468,SME,Retail,India,Standard,Medium
+M00469,Enterprise,Retail,Singapore,Standard,Low
+M00470,Enterprise,Food,India,Growth,High
+M00471,SME,Digital Services,Singapore,Promotional,Low
+M00472,SME,Professional Services,India,Standard,Low
+M00473,SME,Digital Services,India,Standard,Low
+M00474,Enterprise,Professional Services,India,Enterprise,Low
+M00475,SME,Travel,India,Promotional,High
+M00476,SME,Education,India,Standard,Low
+M00477,SME,Electronics,India,High Risk,Medium
+M00478,SME,Electronics,India,Growth,Low
+M00479,Strategic,Digital Services,Singapore,Enterprise,Medium
+M00480,Strategic,Food,India,Promotional,Medium
+M00481,SME,Retail,India,Growth,High
+M00482,SME,Travel,UAE,Standard,Low
+M00483,SME,Retail,India,Standard,Medium
+M00484,SME,Retail,India,Standard,Low
+M00485,SME,Healthcare,India,Growth,Low
+M00486,SME,Retail,India,Standard,Medium
+M00487,SME,Education,India,Growth,Low
+M00488,SME,Professional Services,UAE,Standard,Medium
+M00489,SME,Food,UAE,Promotional,High
+M00490,SME,Retail,India,Growth,Medium
+M00491,SME,Digital Services,India,High Risk,Low
+M00492,SME,Electronics,Singapore,Standard,Medium
+M00493,SME,Travel,India,Promotional,Low
+M00494,Enterprise,Electronics,Singapore,Growth,Low
+M00495,Enterprise,Travel,India,Enterprise,Medium
+M00496,SME,Digital Services,India,High Risk,Medium
+M00497,SME,Retail,India,Standard,High
+M00498,SME,Food,UAE,Standard,Low
+M00499,SME,Food,India,Growth,High
+M00500,Enterprise,Healthcare,UAE,Enterprise,Medium
+M00501,SME,Digital Services,Singapore,Promotional,Low
+M00502,SME,Electronics,India,Standard,Low
+M00503,Strategic,Retail,India,Enterprise,Low
+M00504,Enterprise,Digital Services,India,Standard,Low
+M00505,SME,Retail,Singapore,Promotional,Low
+M00506,SME,Food,Singapore,Standard,Medium
+M00507,SME,Food,Singapore,Promotional,Low
+M00508,Enterprise,Retail,India,Enterprise,High
+M00509,SME,Retail,India,Growth,Medium
+M00510,SME,Electronics,Singapore,High Risk,Low
+M00511,SME,Travel,UAE,Standard,Low
+M00512,SME,Education,UAE,Standard,Medium
+M00513,SME,Digital Services,Singapore,Growth,Medium
+M00514,Enterprise,Travel,India,Enterprise,Medium
+M00515,Strategic,Retail,India,Enterprise,Low
+M00516,Enterprise,Food,India,Enterprise,Medium
+M00517,SME,Retail,Singapore,Growth,Medium
+M00518,SME,Professional Services,India,Standard,Low
+M00519,SME,Professional Services,Singapore,Growth,Low
+M00520,SME,Food,UAE,Growth,Medium
+M00521,SME,Travel,India,Promotional,Low
+M00522,Enterprise,Food,UAE,Growth,High
+M00523,Enterprise,Retail,India,Standard,High
+M00524,Enterprise,Education,India,Enterprise,Medium
+M00525,SME,Retail,UAE,Standard,Medium
+M00526,SME,Digital Services,UAE,Growth,Low
+M00527,Strategic,Travel,Singapore,Promotional,High
+M00528,Enterprise,Food,UAE,Standard,Low
+M00529,SME,Retail,UAE,Standard,Low
+M00530,SME,Food,Singapore,High Risk,Medium
+M00531,SME,Retail,Singapore,Promotional,Low
+M00532,Enterprise,Professional Services,India,Enterprise,Low
+M00533,SME,Food,India,Promotional,Medium
+M00534,SME,Retail,Singapore,Standard,Low
+M00535,SME,Education,Singapore,Growth,Low
+M00536,Enterprise,Retail,India,Enterprise,Low
+M00537,SME,Food,India,Standard,Low
+M00538,SME,Retail,UAE,Promotional,Low
+M00539,Enterprise,Food,India,Standard,Medium
+M00540,SME,Education,UAE,Standard,Low
+M00541,SME,Healthcare,UAE,Standard,Low
+M00542,Strategic,Food,Singapore,Enterprise,Low
+M00543,Enterprise,Electronics,India,Standard,Low
+M00544,SME,Professional Services,India,Standard,Low
+M00545,Enterprise,Professional Services,India,Standard,Low
+M00546,SME,Travel,Singapore,High Risk,Medium
+M00547,Strategic,Healthcare,India,Enterprise,Low
+M00548,Strategic,Food,UAE,Enterprise,Low
+M00549,SME,Food,Singapore,Standard,Medium
+M00550,SME,Electronics,India,Standard,Low
+M00551,Enterprise,Retail,Singapore,Enterprise,Low
+M00552,SME,Food,India,Promotional,High
+M00553,SME,Digital Services,India,Standard,Low
+M00554,SME,Retail,India,Standard,Low
+M00555,SME,Electronics,India,Growth,Medium
+M00556,SME,Education,UAE,Promotional,Medium
+M00557,SME,Digital Services,Singapore,Standard,Medium
+M00558,SME,Professional Services,Singapore,Promotional,Medium
+M00559,Enterprise,Healthcare,Singapore,Standard,Low
+M00560,SME,Electronics,Singapore,Growth,Medium
+M00561,SME,Retail,Singapore,Promotional,Medium
+M00562,SME,Food,UAE,Standard,Medium
+M00563,SME,Digital Services,India,Growth,Medium
+M00564,Enterprise,Digital Services,UAE,Standard,Low
+M00565,SME,Retail,Singapore,Promotional,Low
+M00566,SME,Digital Services,India,Standard,High
+M00567,Enterprise,Retail,India,Enterprise,High
+M00568,SME,Retail,UAE,Standard,Medium
+M00569,SME,Food,UAE,Promotional,Low
+M00570,SME,Digital Services,India,Promotional,Low
+M00571,SME,Professional Services,India,Growth,Low
+M00572,Enterprise,Digital Services,India,Enterprise,Medium
+M00573,SME,Digital Services,India,Standard,Low
+M00574,SME,Travel,India,Growth,Medium
+M00575,SME,Retail,India,High Risk,Medium
+M00576,SME,Digital Services,India,Promotional,Medium
+M00577,SME,Travel,India,Promotional,High
+M00578,SME,Digital Services,UAE,Growth,High
+M00579,SME,Retail,India,High Risk,Medium
+M00580,Enterprise,Education,Singapore,Standard,Low
+M00581,Strategic,Healthcare,Singapore,Enterprise,High
+M00582,SME,Electronics,UAE,Promotional,Low
+M00583,Enterprise,Education,India,Enterprise,Low
+M00584,SME,Travel,India,Growth,Medium
+M00585,Enterprise,Professional Services,UAE,Growth,Low
+M00586,SME,Healthcare,UAE,Standard,Medium
+M00587,Enterprise,Electronics,Singapore,Standard,Low
+M00588,Strategic,Travel,India,Enterprise,Medium
+M00589,Enterprise,Food,India,Growth,High
+M00590,Enterprise,Retail,India,Enterprise,Medium
+M00591,SME,Retail,India,Promotional,Low
+M00592,SME,Travel,India,Standard,Low
+M00593,Enterprise,Education,India,Enterprise,High
+M00594,SME,Professional Services,India,Standard,Medium
+M00595,SME,Food,Singapore,Growth,Low
+M00596,SME,Digital Services,Singapore,High Risk,Medium
+M00597,SME,Electronics,India,Standard,Low
+M00598,SME,Travel,UAE,Standard,Low
+M00599,Strategic,Retail,Singapore,Enterprise,Medium
+M00600,Enterprise,Travel,India,Enterprise,Low
+M00601,SME,Electronics,India,Standard,Low
+M00602,SME,Digital Services,India,High Risk,Medium
+M00603,SME,Food,Singapore,Growth,Medium
+M00604,SME,Electronics,India,Promotional,Medium
+M00605,Enterprise,Travel,India,Standard,Low
+M00606,SME,Travel,India,Growth,Medium
+M00607,SME,Digital Services,Singapore,High Risk,Medium
+M00608,SME,Electronics,India,High Risk,Medium
+M00609,SME,Travel,India,Standard,Low
+M00610,SME,Travel,India,High Risk,Low
+M00611,SME,Food,India,Growth,Medium
+M00612,Enterprise,Retail,India,Enterprise,Low
+M00613,SME,Healthcare,India,Growth,Low
+M00614,SME,Digital Services,India,Standard,Low
+M00615,Enterprise,Food,India,Standard,Low
+M00616,Enterprise,Electronics,India,Standard,Low
+M00617,Enterprise,Healthcare,India,Enterprise,High
+M00618,Enterprise,Retail,India,Enterprise,Medium
+M00619,SME,Food,India,High Risk,Low
+M00620,Strategic,Education,India,Enterprise,Medium
+M00621,SME,Electronics,India,Standard,Low
+M00622,SME,Healthcare,India,High Risk,Low
+M00623,SME,Food,UAE,High Risk,Low
+M00624,Strategic,Electronics,UAE,Enterprise,Low
+M00625,SME,Food,India,Growth,Low
+M00626,SME,Electronics,India,High Risk,Medium
+M00627,SME,Retail,UAE,Standard,Medium
+M00628,SME,Retail,Singapore,Growth,Low
+M00629,SME,Healthcare,UAE,Standard,Low
+M00630,SME,Retail,UAE,Promotional,Low
+M00631,SME,Digital Services,UAE,Standard,High
+M00632,Enterprise,Healthcare,India,Standard,Low
+M00633,SME,Digital Services,India,Standard,Medium
+M00634,Enterprise,Electronics,India,Enterprise,Low
+M00635,SME,Food,Singapore,Standard,Low
+M00636,SME,Electronics,Singapore,Standard,High
+M00637,Enterprise,Digital Services,India,Growth,Low
+M00638,Enterprise,Food,India,Growth,Medium
+M00639,SME,Food,Singapore,Promotional,Medium
+M00640,Enterprise,Professional Services,India,Standard,Medium
+M00641,SME,Travel,Singapore,Standard,Medium
+M00642,SME,Digital Services,Singapore,Standard,Medium
+M00643,SME,Travel,India,Standard,Low
+M00644,SME,Retail,India,Promotional,High
+M00645,SME,Professional Services,UAE,Standard,High
+M00646,SME,Retail,India,High Risk,Low
+M00647,SME,Digital Services,UAE,Promotional,Low
+M00648,Enterprise,Food,UAE,Growth,Low
+M00649,SME,Electronics,Singapore,Growth,Low
+M00650,SME,Healthcare,Singapore,Growth,Low
+M00651,Strategic,Retail,India,Enterprise,Low
+M00652,SME,Food,UAE,Growth,Medium
+M00653,SME,Retail,India,High Risk,Low
+M00654,Enterprise,Food,Singapore,Enterprise,Medium
+M00655,SME,Digital Services,India,Standard,Medium
+M00656,SME,Travel,UAE,Standard,Low
+M00657,SME,Electronics,UAE,High Risk,Low
+M00658,Enterprise,Retail,Singapore,Enterprise,Medium
+M00659,Enterprise,Retail,India,Standard,High
+M00660,SME,Retail,India,Standard,Medium
+M00661,SME,Travel,India,Promotional,Medium
+M00662,SME,Food,Singapore,Growth,Medium
+M00663,SME,Retail,Singapore,Standard,Low
+M00664,SME,Professional Services,Singapore,Growth,Low
+M00665,Enterprise,Professional Services,UAE,Standard,Low
+M00666,Strategic,Food,India,Enterprise,Medium
+M00667,SME,Digital Services,UAE,Promotional,Low
+M00668,Strategic,Professional Services,India,Enterprise,Medium
+M00669,SME,Healthcare,India,High Risk,Low
+M00670,Enterprise,Retail,Singapore,Enterprise,Low
+M00671,SME,Electronics,UAE,Standard,Medium
+M00672,SME,Travel,India,Standard,Medium
+M00673,SME,Food,India,Standard,Low
+M00674,SME,Food,UAE,Growth,High
+M00675,Enterprise,Healthcare,UAE,Standard,Low
+M00676,Enterprise,Retail,UAE,Standard,Medium
+M00677,SME,Retail,India,Standard,High
+M00678,Enterprise,Electronics,Singapore,Enterprise,Low
+M00679,SME,Electronics,UAE,Promotional,Medium
+M00680,Enterprise,Food,Singapore,Standard,Medium
+M00681,SME,Digital Services,India,Standard,Low
+M00682,SME,Healthcare,Singapore,Growth,Medium
+M00683,Strategic,Food,India,Enterprise,Medium
+M00684,SME,Travel,India,Promotional,Medium
+M00685,Enterprise,Food,India,Growth,Medium
+M00686,SME,Professional Services,Singapore,Standard,Low
+M00687,Strategic,Electronics,India,Promotional,Low
+M00688,SME,Food,UAE,Standard,Low
+M00689,SME,Travel,India,Standard,Medium
+M00690,SME,Electronics,India,Growth,High
+M00691,SME,Digital Services,UAE,Growth,Low
+M00692,SME,Food,Singapore,Promotional,Low
+M00693,SME,Retail,India,Promotional,Low
+M00694,Enterprise,Healthcare,UAE,Growth,Low
+M00695,SME,Education,Singapore,Growth,Low
+M00696,SME,Digital Services,Singapore,Growth,Medium
+M00697,Strategic,Digital Services,UAE,Enterprise,Low
+M00698,Enterprise,Digital Services,India,Enterprise,Medium
+M00699,SME,Food,India,Growth,Medium
+M00700,SME,Digital Services,UAE,Promotional,Medium
+M00701,SME,Retail,India,Standard,Low
+M00702,SME,Digital Services,UAE,High Risk,Medium
+M00703,SME,Retail,India,Growth,Low
+M00704,Enterprise,Education,India,Standard,High
+M00705,SME,Food,India,High Risk,Medium
+M00706,SME,Digital Services,Singapore,Growth,Medium
+M00707,SME,Healthcare,India,Standard,Medium
+M00708,SME,Digital Services,India,Promotional,Low
+M00709,Enterprise,Retail,UAE,Growth,Medium
+M00710,Strategic,Education,UAE,Enterprise,High
+M00711,SME,Travel,India,Standard,Low
+M00712,SME,Education,India,Standard,Medium
+M00713,Enterprise,Digital Services,India,Enterprise,Low
+M00714,SME,Retail,UAE,High Risk,Medium
+M00715,SME,Food,Singapore,Standard,Low
+M00716,Enterprise,Electronics,UAE,Standard,Low
+M00717,SME,Healthcare,UAE,Promotional,Low
+M00718,Strategic,Healthcare,Singapore,Promotional,Low
+M00719,SME,Electronics,India,Standard,Medium
+M00720,SME,Education,India,Growth,Low
+M00721,SME,Healthcare,UAE,High Risk,Medium
+M00722,Enterprise,Retail,Singapore,Enterprise,Medium
+M00723,SME,Retail,UAE,Standard,Low
+M00724,SME,Education,UAE,Promotional,Low
+M00725,Enterprise,Retail,India,Standard,High
+M00726,SME,Food,India,Growth,Medium
+M00727,SME,Retail,Singapore,High Risk,Low
+M00728,SME,Professional Services,India,Promotional,Low
+M00729,Enterprise,Electronics,India,Enterprise,High
+M00730,SME,Professional Services,India,Growth,Low
+M00731,Enterprise,Electronics,UAE,Enterprise,Medium
+M00732,Enterprise,Professional Services,UAE,Enterprise,Low
+M00733,SME,Education,India,Growth,Low
+M00734,SME,Food,Singapore,Standard,Medium
+M00735,SME,Travel,Singapore,High Risk,Low
+M00736,SME,Digital Services,Singapore,Standard,Low
+M00737,SME,Healthcare,Singapore,Growth,Low
+M00738,Enterprise,Food,India,Standard,Medium
+M00739,SME,Travel,India,Promotional,Low
+M00740,SME,Food,India,Growth,Low
+M00741,SME,Retail,UAE,Growth,Low
+M00742,Strategic,Healthcare,Singapore,Promotional,Low
+M00743,SME,Food,UAE,Standard,Low
+M00744,Enterprise,Electronics,India,Standard,High
+M00745,SME,Professional Services,Singapore,High Risk,Low
+M00746,SME,Retail,Singapore,Standard,Medium
+M00747,Enterprise,Professional Services,Singapore,Growth,Low
+M00748,SME,Professional Services,India,Promotional,Low
+M00749,SME,Digital Services,India,Growth,Low
+M00750,SME,Electronics,India,Growth,Low
+M00751,Enterprise,Retail,UAE,Growth,Low
+M00752,SME,Professional Services,Singapore,Standard,Medium
+M00753,SME,Food,India,Growth,High
+M00754,Enterprise,Electronics,India,Standard,Low
+M00755,SME,Education,India,Promotional,Medium
+M00756,SME,Healthcare,Singapore,Standard,Low
+M00757,SME,Food,Singapore,Standard,Low
+M00758,SME,Education,UAE,Promotional,Low
+M00759,SME,Professional Services,Singapore,Growth,Low
+M00760,Enterprise,Digital Services,India,Enterprise,Low
+M00761,SME,Electronics,India,Standard,Medium
+M00762,SME,Food,India,Growth,Low
+M00763,SME,Professional Services,India,Growth,Low
+M00764,Strategic,Healthcare,Singapore,Promotional,Medium
+M00765,SME,Retail,India,Standard,Low
+M00766,SME,Healthcare,India,Promotional,Medium
+M00767,Strategic,Retail,Singapore,Promotional,Low
+M00768,Enterprise,Electronics,India,Enterprise,Low
+M00769,Enterprise,Education,India,Enterprise,Medium
+M00770,SME,Digital Services,Singapore,High Risk,Low
+M00771,SME,Healthcare,UAE,Standard,Medium
+M00772,SME,Digital Services,India,Growth,Low
+M00773,SME,Digital Services,Singapore,Growth,Low
+M00774,SME,Electronics,Singapore,Promotional,Low
+M00775,SME,Education,Singapore,Growth,Low
+M00776,SME,Food,Singapore,Growth,Low
+M00777,Enterprise,Retail,UAE,Growth,Low
+M00778,Enterprise,Food,India,Growth,Low
+M00779,SME,Retail,India,Growth,Low
+M00780,SME,Digital Services,Singapore,Growth,Medium
+M00781,Enterprise,Education,UAE,Standard,Low
+M00782,SME,Electronics,India,Promotional,Medium
+M00783,SME,Education,Singapore,Standard,Medium
+M00784,Strategic,Travel,India,Enterprise,Low
+M00785,SME,Food,UAE,Standard,Low
+M00786,SME,Retail,Singapore,Growth,Low
+M00787,Enterprise,Travel,India,Standard,Low
+M00788,SME,Healthcare,Singapore,Standard,Low
+M00789,SME,Food,India,Standard,Low
+M00790,Strategic,Travel,India,Enterprise,Low
+M00791,SME,Retail,UAE,Promotional,Low
+M00792,SME,Food,India,Promotional,Low
+M00793,Enterprise,Healthcare,India,Enterprise,Low
+M00794,SME,Education,Singapore,Standard,Low
+M00795,SME,Travel,UAE,Growth,Medium
+M00796,SME,Education,India,Growth,Medium
+M00797,SME,Professional Services,Singapore,Growth,Low
+M00798,Enterprise,Food,India,Standard,Medium
+M00799,Enterprise,Travel,UAE,Standard,Low
+M00800,SME,Digital Services,India,Growth,Low
+M00801,SME,Electronics,Singapore,Promotional,Low
+M00802,SME,Retail,Singapore,Promotional,Low
+M00803,SME,Digital Services,India,Standard,Medium
+M00804,SME,Electronics,India,Growth,High
+M00805,SME,Travel,India,Growth,Medium
+M00806,Enterprise,Professional Services,UAE,Enterprise,Low
+M00807,SME,Digital Services,India,Growth,Low
+M00808,Enterprise,Food,UAE,Standard,Low
+M00809,SME,Professional Services,India,Promotional,Medium
+M00810,Enterprise,Retail,India,Enterprise,Low
+M00811,Enterprise,Healthcare,UAE,Enterprise,Medium
+M00812,SME,Electronics,Singapore,Standard,Medium
+M00813,SME,Food,Singapore,Promotional,Medium
+M00814,SME,Retail,UAE,High Risk,Medium
+M00815,SME,Food,UAE,Growth,Medium
+M00816,SME,Retail,India,Growth,Low
+M00817,SME,Digital Services,India,Standard,Medium
+M00818,SME,Healthcare,India,Growth,Medium
+M00819,SME,Food,UAE,Growth,Medium
+M00820,SME,Digital Services,India,Standard,Low
+M00821,Strategic,Retail,Singapore,Promotional,Medium
+M00822,SME,Retail,UAE,Standard,High
+M00823,SME,Electronics,Singapore,Promotional,Medium
+M00824,SME,Retail,India,Growth,Low
+M00825,SME,Travel,India,High Risk,Medium
+M00826,SME,Professional Services,India,Standard,Low
+M00827,SME,Food,India,Standard,Low
+M00828,SME,Digital Services,India,High Risk,Low
+M00829,SME,Travel,India,Standard,Low
+M00830,SME,Travel,UAE,Growth,Low
+M00831,SME,Food,UAE,Growth,Low
+M00832,SME,Digital Services,UAE,Growth,Medium
+M00833,SME,Professional Services,India,Growth,High
+M00834,SME,Digital Services,UAE,Growth,Medium
+M00835,SME,Retail,Singapore,Standard,Medium
+M00836,SME,Education,UAE,Promotional,Low
+M00837,SME,Travel,UAE,Growth,Low
+M00838,SME,Travel,UAE,Growth,Medium
+M00839,Enterprise,Food,India,Enterprise,Medium
+M00840,SME,Education,Singapore,High Risk,Medium
+M00841,Strategic,Travel,Singapore,Promotional,Low
+M00842,SME,Professional Services,India,Standard,Low
+M00843,SME,Digital Services,India,Promotional,Low
+M00844,Enterprise,Travel,India,Enterprise,Low
+M00845,SME,Travel,UAE,Promotional,Medium
+M00846,SME,Electronics,UAE,Standard,Low
+M00847,Strategic,Electronics,Singapore,Enterprise,Medium
+M00848,SME,Digital Services,India,Growth,Low
+M00849,SME,Food,India,Promotional,Medium
+M00850,Enterprise,Healthcare,Singapore,Enterprise,High
+M00851,Enterprise,Professional Services,India,Enterprise,Low
+M00852,SME,Retail,India,Promotional,Low
+M00853,SME,Electronics,UAE,Standard,Low
+M00854,Strategic,Electronics,Singapore,Enterprise,Low
+M00855,SME,Education,Singapore,Promotional,Medium
+M00856,SME,Travel,India,Promotional,Low
+M00857,Strategic,Digital Services,India,Enterprise,Medium
+M00858,Enterprise,Travel,Singapore,Standard,Low
+M00859,SME,Retail,India,Standard,Low
+M00860,SME,Professional Services,India,Promotional,High
+M00861,Enterprise,Food,India,Enterprise,Low
+M00862,SME,Food,India,Growth,Medium
+M00863,SME,Retail,India,Standard,Low
+M00864,Strategic,Food,India,Enterprise,High
+M00865,SME,Healthcare,Singapore,Growth,High
+M00866,Enterprise,Travel,India,Growth,Low
+M00867,Enterprise,Education,India,Enterprise,Low
+M00868,Enterprise,Retail,UAE,Standard,Medium
+M00869,Enterprise,Education,India,Standard,Low
+M00870,SME,Electronics,India,Growth,Medium
+M00871,Enterprise,Travel,India,Standard,High
+M00872,Enterprise,Retail,India,Standard,Medium
+M00873,Strategic,Food,India,Enterprise,Medium
+M00874,Enterprise,Digital Services,India,Enterprise,Low
+M00875,Enterprise,Education,India,Growth,High
+M00876,SME,Digital Services,India,Standard,Low
+M00877,SME,Retail,India,High Risk,Low
+M00878,SME,Education,India,Promotional,Medium
+M00879,SME,Retail,India,Growth,Medium
+M00880,SME,Travel,India,Standard,Medium
+M00881,SME,Education,UAE,Growth,Medium
+M00882,Strategic,Food,India,Enterprise,Medium
+M00883,SME,Retail,UAE,Growth,Low
+M00884,SME,Retail,UAE,Standard,Medium
+M00885,Enterprise,Digital Services,Singapore,Enterprise,Low
+M00886,SME,Food,Singapore,Standard,Low
+M00887,SME,Retail,UAE,Standard,Medium
+M00888,SME,Travel,India,Standard,High
+M00889,SME,Healthcare,India,Promotional,Medium
+M00890,Strategic,Retail,India,Enterprise,Low
+M00891,Enterprise,Food,Singapore,Growth,Medium
+M00892,Enterprise,Education,India,Enterprise,High
+M00893,Enterprise,Electronics,UAE,Standard,Low
+M00894,SME,Electronics,India,Growth,Low
+M00895,Enterprise,Digital Services,UAE,Standard,Low
+M00896,Enterprise,Education,India,Standard,Low
+M00897,Strategic,Digital Services,Singapore,Promotional,Low
+M00898,SME,Digital Services,Singapore,Standard,Low
+M00899,SME,Education,India,Standard,Medium
+M00900,SME,Electronics,UAE,Standard,Low
+M00901,SME,Professional Services,India,Standard,High
+M00902,SME,Education,India,Growth,Low
+M00903,SME,Electronics,UAE,Growth,Low
+M00904,SME,Food,India,Promotional,Low
+M00905,SME,Food,India,Standard,High
+M00906,SME,Education,India,Growth,Low
+M00907,SME,Travel,Singapore,Standard,Low
+M00908,Strategic,Professional Services,India,Enterprise,Medium
+M00909,Enterprise,Healthcare,Singapore,Standard,Low
+M00910,SME,Food,Singapore,Promotional,Medium
+M00911,Enterprise,Healthcare,India,Standard,Low
+M00912,SME,Healthcare,India,Standard,Medium
+M00913,SME,Travel,Singapore,High Risk,Medium
+M00914,SME,Retail,Singapore,Promotional,Low
+M00915,SME,Electronics,India,Growth,Low
+M00916,SME,Electronics,India,High Risk,Low
+M00917,SME,Professional Services,UAE,Standard,Medium
+M00918,SME,Retail,UAE,Growth,Medium
+M00919,Enterprise,Food,Singapore,Growth,Medium
+M00920,SME,Digital Services,India,Growth,Low
+M00921,Strategic,Digital Services,Singapore,Enterprise,Medium
+M00922,SME,Healthcare,India,Standard,Low
+M00923,SME,Retail,Singapore,Standard,Low
+M00924,Enterprise,Retail,Singapore,Enterprise,Low
+M00925,Enterprise,Retail,India,Standard,Medium
+M00926,SME,Education,India,Standard,Low
+M00927,SME,Education,Singapore,Standard,Low
+M00928,SME,Electronics,UAE,Growth,High
+M00929,SME,Retail,Singapore,Growth,Low
+M00930,SME,Food,Singapore,Promotional,Medium
+M00931,SME,Professional Services,India,Promotional,High
+M00932,SME,Food,Singapore,Growth,Low
+M00933,SME,Retail,Singapore,Growth,Medium
+M00934,SME,Travel,India,Growth,Low
+M00935,Enterprise,Digital Services,Singapore,Enterprise,Low
+M00936,Enterprise,Retail,Singapore,Standard,Medium
+M00937,SME,Professional Services,Singapore,Growth,High
+M00938,SME,Digital Services,India,Growth,Low
+M00939,SME,Digital Services,India,Standard,Low
+M00940,SME,Food,UAE,Standard,Low
+M00941,SME,Professional Services,India,Growth,High
+M00942,Enterprise,Digital Services,India,Enterprise,High
+M00943,SME,Digital Services,UAE,High Risk,Low
+M00944,SME,Electronics,India,High Risk,Medium
+M00945,SME,Electronics,India,Growth,Medium
+M00946,SME,Retail,India,High Risk,Low
+M00947,SME,Travel,UAE,Promotional,Low
+M00948,Strategic,Travel,India,Enterprise,Low
+M00949,SME,Retail,Singapore,Growth,Medium
+M00950,SME,Electronics,Singapore,Standard,Low
+M00951,SME,Education,India,Growth,Medium
+M00952,SME,Education,India,Standard,High
+M00953,SME,Retail,India,Promotional,Low
+M00954,SME,Professional Services,UAE,Growth,Medium
+M00955,SME,Electronics,UAE,Standard,Low
+M00956,Enterprise,Digital Services,UAE,Growth,High
+M00957,Strategic,Healthcare,India,Promotional,Medium
+M00958,SME,Healthcare,India,Promotional,Medium
+M00959,SME,Digital Services,India,Promotional,High
+M00960,Enterprise,Retail,Singapore,Standard,Low
+M00961,SME,Healthcare,Singapore,Growth,Low
+M00962,Strategic,Digital Services,UAE,Enterprise,Medium
+M00963,SME,Healthcare,UAE,Standard,Low
+M00964,SME,Food,India,Standard,High
+M00965,SME,Professional Services,Singapore,Standard,Medium
+M00966,SME,Digital Services,Singapore,Growth,Low
+M00967,SME,Digital Services,Singapore,Standard,Low
+M00968,SME,Electronics,Singapore,Standard,Low
+M00969,SME,Education,UAE,Promotional,Low
+M00970,Enterprise,Education,Singapore,Enterprise,Low
+M00971,SME,Food,India,Standard,Medium
+M00972,SME,Digital Services,India,Growth,Low
+M00973,Strategic,Travel,UAE,Enterprise,Low
+M00974,SME,Digital Services,UAE,High Risk,Low
+M00975,SME,Electronics,India,Growth,Low
+M00976,Enterprise,Digital Services,Singapore,Enterprise,High
+M00977,SME,Food,India,Standard,Low
+M00978,Enterprise,Travel,India,Enterprise,Low
+M00979,SME,Electronics,India,Growth,Medium
+M00980,SME,Healthcare,India,High Risk,Low
+M00981,Enterprise,Food,India,Standard,Low
+M00982,SME,Digital Services,Singapore,Growth,High
+M00983,SME,Education,UAE,Standard,Medium
+M00984,SME,Retail,Singapore,Growth,Low
+M00985,SME,Travel,India,Standard,Medium
+M00986,SME,Retail,India,Standard,Low
+M00987,SME,Food,India,Growth,Low
+M00988,SME,Digital Services,India,Standard,Medium
+M00989,SME,Education,UAE,Promotional,High
+M00990,SME,Food,India,High Risk,Low
+M00991,SME,Retail,India,Growth,Low
+M00992,SME,Healthcare,India,Standard,Medium
+M00993,SME,Retail,UAE,Standard,High
+M00994,SME,Digital Services,India,Growth,Medium
+M00995,SME,Food,India,Growth,Medium
+M00996,SME,Retail,Singapore,Growth,Low
+M00997,Enterprise,Food,India,Standard,Medium
+M00998,SME,Healthcare,UAE,Growth,Medium
+M00999,Enterprise,Food,India,Enterprise,Low
+M01000,SME,Education,Singapore,Growth,Low

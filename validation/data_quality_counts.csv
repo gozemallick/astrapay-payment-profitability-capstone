@@ -1,0 +1,16 @@
+metric,value
+transaction_rows,75070
+unique_transactions,75000
+duplicate_transaction_id_rows,70
+missing_merchant_id,1050
+zero_or_negative_amount,807
+fraud_rows,73583
+fraud_score_outside_0_1,681
+late_events_over_3_days,2189
+successful_transactions,64571
+settlement_rows,64192
+successful_tx_without_settlement,2361
+transactions_with_multiple_settlements,1973
+fx_rate_duplicate_types,543
+merchant_month_duplicate_snapshot_rows,184
+chargeback_rows,925
